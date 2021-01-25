@@ -1,0 +1,11 @@
+.list {
+  margin: 30px 20px 30px 20px;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.list__body {
+  list-style: none;
+  padding: 0;
+}
